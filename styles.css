@@ -16,3 +16,47 @@
     font-size: 1.2rem;
     color: #666;
 }
+
+/* hr {
+    border-top: 2px solid #777;
+    width: 100%;
+    margin: 20px auto;
+} */
+
+#work-experience {
+    margin-top: 10%;
+    font-size: 5%;
+    color: #333;
+}
+
+#title {
+    /* margin-left: 9%; */
+    color: #333;
+}
+
+#role {
+    /* margin-left: 9%; */
+    color: #333
+}
+
+#job-description {
+    /* margin-left: 9%; */
+    margin-right: 10%;
+    font-size: medium;
+    color: #666;
+    text-align: justify;
+    margin-bottom: 1%;
+}
+
+#tech-stack {
+    /* margin-left: 9%; */
+    margin-right: 10%;
+    font-size: medium;
+    color: #666;
+    text-align: justify;
+    margin-bottom: 3%;
+}
+
+/* #sep {
+    margin-right: 30%;
+} */
